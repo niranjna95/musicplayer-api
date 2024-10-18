@@ -1,0 +1,15 @@
+{
+  "name": "musicplayer-api",
+  "version": "1.0.0",
+  "description": "This is a music player api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Niranjan",
+  "license": "ISC"
+}
