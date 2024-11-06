@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "avnadmin",
-    "password": "AVNS_x7oRYkRFbfe9CrZKOsK",
+    "password": "xxxxxxxxxxxxx",
     "database": "defaultdb",
-    "host": "mysql-38a44867-niranjangiri51295-195a.e.aivencloud.com",
+    "host": "xxxxxx",
     "dialect": "mysql"
   },
   "test": {
